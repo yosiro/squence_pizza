@@ -1,0 +1,7 @@
+state menggambarkan class controller
+
+event = method
+event tidak wajib
+state per kelas
+
+state dan activity PIZZA
